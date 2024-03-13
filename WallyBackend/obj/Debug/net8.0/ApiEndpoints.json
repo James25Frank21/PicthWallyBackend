@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "WallyBackend.Controllers.UsuariosController",
+    "Method": "SignIn",
+    "RelativePath": "api/Usuarios/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDTO",
+        "Type": "WallyBackend.core.DTOs.UsuarioAuthenticationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallyBackend.Controllers.UsuariosController",
+    "Method": "SignUp",
+    "RelativePath": "api/Usuarios/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDTO",
+        "Type": "WallyBackend.core.DTOs.UsuarioAuthRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

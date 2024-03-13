@@ -1,0 +1,17 @@
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.Infrastructure.deps.json
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.Infrastructure.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.Infrastructure.pdb
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.core.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.core.pdb
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.csproj.AssemblyReference.cache
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.AssemblyInfoInputs.cache
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.AssemblyInfo.cs
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBac.385FDBF7.Up2Date
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\refint\WallyBackend.Infrastructure.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.pdb
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\ref\WallyBackend.Infrastructure.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\bin\Debug\net8.0\WallyBackend.Infrastructure.runtimeconfig.json
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.Infrastructure\obj\Debug\net8.0\WallyBackend.Infrastructure.genruntimeconfig.cache

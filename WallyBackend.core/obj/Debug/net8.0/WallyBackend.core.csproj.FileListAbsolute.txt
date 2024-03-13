@@ -1,0 +1,12 @@
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\bin\Debug\net8.0\WallyBackend.core.deps.json
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\bin\Debug\net8.0\WallyBackend.core.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\bin\Debug\net8.0\WallyBackend.core.pdb
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.AssemblyInfoInputs.cache
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.AssemblyInfo.cs
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.csproj.CoreCompileInputs.cache
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\refint\WallyBackend.core.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.pdb
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\ref\WallyBackend.core.dll
+E:\Proyectos\WallyBackend\WallyBackend\WallyBackend.core\obj\Debug\net8.0\WallyBackend.core.csproj.AssemblyReference.cache
